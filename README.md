@@ -4,7 +4,7 @@ Telefona gelen SMS'lerdeki doğrulama kodlarını (OTP) Gmail üzerinden e-posta
 
 ## İndir
 
-**[OtpPostaci-1.0.apk](https://github.com/NetworqeR/otp-postaci-indir/releases/latest/download/OtpPostaci.apk)**
+**[OtpPostaci.apk — son sürüm](https://github.com/NetworqeR/otp-postaci-indir/releases/latest/download/OtpPostaci.apk)**
 
 Bu link her zaman en son sürümü indirir.
 
